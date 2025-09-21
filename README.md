@@ -177,10 +177,6 @@ This project includes **comprehensive documentation** for every component:
 - UI tests for critical user flows
 - Firebase rules testing for data security
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ### 📋 Development Guidelines
 1. Follow the existing code style and architecture
 2. Add comprehensive documentation for new features
@@ -199,13 +195,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Material Design** for beautiful UI components
 - **Kotlin** for making Android development enjoyable
 
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/Zeyad97/Finance-App-Kotlin?style=social)](https://github.com/Zeyad97/Finance-App-Kotlin/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Zeyad97/Finance-App-Kotlin?style=social)](https://github.com/Zeyad97/Finance-App-Kotlin/network/members)
-
-</div>
