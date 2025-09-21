@@ -187,15 +187,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Include unit tests for business logic
 4. Update README if adding new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Zeyad97**
 - GitHub: [@Zeyad97](https://github.com/Zeyad97)
-- Repository: [Finance-App-Kotlin](https://github.com/Zeyad97/Finance-App-Kotlin)
 
 ## 🙏 Acknowledgments
 
