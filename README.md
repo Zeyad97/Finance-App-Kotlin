@@ -177,25 +177,16 @@ This project includes **comprehensive documentation** for every component:
 - UI tests for critical user flows
 - Firebase rules testing for data security
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ### 📋 Development Guidelines
 1. Follow the existing code style and architecture
 2. Add comprehensive documentation for new features
 3. Include unit tests for business logic
 4. Update README if adding new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Zeyad97**
 - GitHub: [@Zeyad97](https://github.com/Zeyad97)
-- Repository: [Finance-App-Kotlin](https://github.com/Zeyad97/Finance-App-Kotlin)
 
 ## 🙏 Acknowledgments
 
@@ -204,13 +195,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Material Design** for beautiful UI components
 - **Kotlin** for making Android development enjoyable
 
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/Zeyad97/Finance-App-Kotlin?style=social)](https://github.com/Zeyad97/Finance-App-Kotlin/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Zeyad97/Finance-App-Kotlin?style=social)](https://github.com/Zeyad97/Finance-App-Kotlin/network/members)
-
-</div>
