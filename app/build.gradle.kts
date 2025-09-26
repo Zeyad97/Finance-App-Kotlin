@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pageapp"
+    namespace = "com.Finance.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pageapp"
+        applicationId = "com.Finance.app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
